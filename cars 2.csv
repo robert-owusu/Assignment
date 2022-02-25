@@ -1,0 +1,62 @@
+,index,company,car_type,wheel_base,length,engine_type,num_of_cylinders,engine_capacity,average_km,price
+0,0,Honda,Convertible,88.6,168.8,dohc,four,7.4,33.79614,87717.5
+1,1,Honda,Convertible,88.6,168.8,dohc,four,7.4,33.79614,107250.0
+2,2,Honda,Four Wheel Drive,94.5,171.2,ohcv,six,10.3,30.57746,107250.0
+3,3,Hyundai,Salon car,99.8,176.6,ohc,four,6.8,38.62416,90675.0
+4,4,Hyundai,Salon car,99.4,176.6,ohc,five,7.7,28.96812,113425.0
+5,5,Hyundai,Salon car,99.8,177.3,ohc,five,7.3,30.57746,99125.0
+6,6,Hyundai,Wagon,105.8,192.7,ohc,five,7.3,30.57746,122980.0
+7,9,Bmw,Salon car,101.2,176.8,ohc,four,6.7,37.01482,106795.0
+8,10,Bmw,Salon car,101.2,176.8,ohc,four,6.7,37.01482,110012.5
+9,11,Bmw,Salon car,101.2,176.8,ohc,six,8.1,33.79614,136305.0
+10,13,Bmw,Salon car,103.5,189.0,ohc,six,12.1,25.74944,199940.0
+11,14,Bmw,Salon car,103.5,193.8,ohc,six,12.1,25.74944,268547.5
+12,15,Bmw,Salon car,110.0,197.0,ohc,six,12.1,24.1401,239720.0
+13,16,Kantaka,Four Wheel Drive,88.4,141.1,l,three,3.2,75.63898,33481.5
+14,17,Kantaka,Four Wheel Drive,94.5,155.9,ohc,four,4.7,61.15492,40917.5
+15,18,Kantaka,Salon car,94.5,158.8,ohc,four,4.7,61.15492,42737.5
+16,19,Kantaka,Four Wheel Drive,93.7,157.3,ohc,four,4.5,49.88954,41450.5
+17,20,Kantaka,Four Wheel Drive,93.7,157.3,ohc,four,4.5,49.88954,40488.5
+18,27,Kantaka,Wagon,96.5,157.1,ohc,four,5.1,48.2802,47417.5
+19,28,Kantaka,Salon car,96.5,175.4,ohc,four,6.7,38.62416,84142.5
+20,29,Kantaka,Salon car,96.5,169.1,ohc,four,6.7,40.2335,67242.5
+21,30,Kantaka,Salon car,94.3,170.7,ohc,four,5.2,38.62416,44102.5
+22,31,Kantaka,Salon car,94.5,155.9,ohc,four,4.7,61.15492,0.0
+23,32,Kantaka,Salon car,94.5,155.9,ohc,four,4.7,61.15492,0.0
+24,33,Kantaka,Salon car,113.0,199.6,dohc,six,11.7,24.1401,209625.0
+25,34,Kantaka,Salon car,113.0,199.6,dohc,six,11.7,24.1401,231075.0
+26,35,Kantaka,Salon car,102.0,191.7,ohcv,twelve,17.5,20.92142,234000.0
+27,36,Mazda,Four Wheel Drive,93.1,159.1,ohc,four,4.5,48.2802,33767.5
+28,37,Mazda,Four Wheel Drive,93.1,159.1,ohc,four,4.5,49.88954,39617.5
+29,38,Mazda,Four Wheel Drive,93.1,159.1,ohc,four,4.5,49.88954,44167.5
+30,39,Mazda,Four Wheel Drive,95.3,169.0,rotor,two,6.7,27.35878,76992.5
+31,43,Mazda,Salon car,104.9,175.0,ohc,four,4.8,49.88954,119236.0
+32,44,Toyota,Salon car,110.0,190.9,ohc,five,8.2,35.40548,166088.0
+33,45,Toyota,Wagon,110.0,190.9,ohc,five,8.2,35.40548,183612.0
+34,46,Toyota,Salon car,120.9,208.1,ohcv,eight,12.3,22.53076,266240.0
+35,47,Toyota,hardtop,112.0,199.2,ohcv,eight,12.3,22.53076,295100.0
+36,49,Mitsubishi,Four Wheel Drive,93.7,157.3,ohc,four,4.5,59.54558,35028.5
+37,50,Mitsubishi,Four Wheel Drive,93.7,157.3,ohc,four,4.5,49.88954,40228.5
+38,51,Mitsubishi,Salon car,96.3,172.4,ohc,four,5.9,40.2335,45428.5
+39,52,Mitsubishi,Salon car,96.3,172.4,ohc,four,5.9,40.2335,53228.5
+40,53,Nissan,Salon car,94.5,165.3,ohc,four,3.7,72.4203,46143.5
+41,54,Nissan,Salon car,94.5,165.3,ohc,four,4.6,49.88954,43218.5
+42,55,Nissan,Salon car,94.5,165.3,ohc,four,4.6,49.88954,44518.5
+43,56,Nissan,Wagon,94.5,170.2,ohc,four,4.6,49.88954,47768.5
+44,57,Nissan,Salon car,100.4,184.6,ohcv,six,10.1,30.57746,87743.5
+45,61,Mitsubishi,Convertible,89.5,168.9,ohcf,six,13.8,27.35878,221182.0
+46,62,Mitsubishi,Convertible,89.5,168.9,ohcf,six,13.8,27.35878,240682.0
+47,63,Mitsubishi,Four Wheel Drive,98.4,175.7,dohcv,eight,19.2,27.35878,0.0
+48,66,Honda,Four Wheel Drive,95.7,158.7,ohc,four,4.1,56.3269,34762.0
+49,67,Honda,Four Wheel Drive,95.7,158.7,ohc,four,4.1,49.88954,41197.0
+50,68,Honda,Four Wheel Drive,95.7,158.7,ohc,four,4.1,49.88954,42172.0
+51,69,Honda,Wagon,95.7,169.7,ohc,four,4.1,49.88954,44967.0
+52,70,Honda,Wagon,95.7,169.7,ohc,four,4.1,43.45218,51337.0
+53,71,Honda,Wagon,95.7,169.7,ohc,four,4.1,43.45218,57057.0
+54,79,Honda,Wagon,104.5,187.8,dohc,six,10.4,30.57746,102375.0
+55,80,Toyota,Salon car,97.3,171.7,ohc,four,3.5,59.54558,50537.5
+56,81,Toyota,Salon car,97.3,171.7,ohc,four,5.7,43.45218,51837.5
+57,82,Toyota,Salon car,97.3,171.7,ohc,four,3.5,59.54558,51967.5
+58,86,Toyota,Salon car,97.3,171.7,ohc,four,6.7,41.84284,64967.5
+59,87,Mitsubishi,Salon car,104.3,188.8,ohc,four,7.6,37.01482,84110.0
+60,88,Mitsubishi,Wagon,104.3,188.8,ohc,four,7.6,37.01482,87197.5
